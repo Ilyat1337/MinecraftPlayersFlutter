@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "737765937777",
+    "project_id": "minecraftplayersflutter",
+    "storage_bucket": "minecraftplayersflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737765937777:android:4fa2be74006996efff41d0",
+        "android_client_info": {
+          "package_name": "com.ilyat.minecraft_players"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737765937777-63jfs669sujivqkvkj0i9ae5eak90rvi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPmPMvp1GKb5GpK5l3s95HXR72bsQGFUQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737765937777-63jfs669sujivqkvkj0i9ae5eak90rvi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
